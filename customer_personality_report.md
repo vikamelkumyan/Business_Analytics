@@ -1,5 +1,5 @@
 # Customer Personality Analysis — Project Report
-Author : *** Viktoria Melkumyan ***
+### Author : Viktoria Melkumyan 
 ### Course : Business Analytics for Data Science
 ### Instructor : Yevgenya Bazinyan
 ## 1. Purpose of the Project
